@@ -52,6 +52,6 @@ Backend para la aplicación AdopMe, desarrollada como proyecto final para el cur
 
 Puedes encontrar la imagen Docker de este proyecto en Docker Hub:
 
-https://hub.docker.com/r/tu-usuario-dockerhub/adoptme-backend
+https://hub.docker.com/r/genabottarlini/adoptme-backend
 
-*(Reemplaza `tu-usuario-dockerhub` con tu nombre de usuario real en el enlace y en los comandos)*
+*(Reemplaza `genabottarlini` con tu nombre de usuario real en el enlace y en los comandos)*
